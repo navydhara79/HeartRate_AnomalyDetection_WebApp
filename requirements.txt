@@ -7,3 +7,5 @@ requests
 pyrebase4
 plotly
 scikit-learn
+streamlit_option_menu
+streamlit_lottie
