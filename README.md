@@ -1,3 +1,5 @@
+# Deployed at https://navyadhara-heartratewebapp.streamlit.app/
+
 # ❤️ CARDIO APP: Real-Time Heart Rate Monitoring
 
 Welcome to the **Cardio App**, a web-based application designed to process and visualize real-time heart rate data. The app identifies and handles anomalies (e.g., sudden spikes, drops, and missing data) using advanced AI techniques. This tool is ideal for monitoring heart health in real-time.
